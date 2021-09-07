@@ -1,0 +1,197 @@
+{
+  "main": {
+    "name": "Itaru Kishikawa",
+    "occupation": "Full-Stack Software Engineer",
+    "description": "I'm packed with everything need to go. And looking for the next trip :)",
+    "position": "Site",
+    "image": "profilepic.jpg",
+    "bio": "Following my heart.",
+    "contactmessage": "I would like to discuss new opportunities. Let's talk and find \"it.\" Always welcome and look forwad to hearing from you. See you in the near future.",
+    "email": "itaru.kishikawa@gmail.com",
+    "phone": "(714) 829-7042",
+    "address": {
+      "city": "San Jose",
+      "state": "CA"
+    },
+    "website": "https://itaru.space",
+    "resumedownload": "https://drive.google.com/file/d/1SYV9-erula1wkMdkmLWRk5TYn44Yw1Vj/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/itaru.kishikawa.1/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/itaru-kishikawa/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Itaru7",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "San Jose State University",
+        "degree": "Bachelor of Science, Computer Science",
+        "graduated": "May 2019",
+        "description": ""
+      },
+      {
+        "school": "Orange Coast College",
+        "degree": "Associate of Science, Mathematics",
+        "graduated": "May 2016",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Fujisoft America, Inc.",
+        "positions":[
+          {
+            "title": "Summary - Software Engineer",
+            "years": "January 2020 - September 2021",
+            "description": [
+                "• Developed custom applications, APIs and features in Python, React, JavaScript, HTML, CSS, Ubuntu, Nginx, and Kintone (partnership DB) for various projects",
+                "• Tested, reviewed and analyzed codes or logs to fix bugs written by others",
+                "• Proposed, architected and launched applications or softwares"
+            ]
+          },
+          {
+            "title": "Highlight - Full Stack Software Engineer",
+            "years": "June 2020 – January 2021",
+            "description": [
+              "• Built a web-based Daily Sales Summary Dashboard full stack", 
+              "• Designed and implemented a server, database, backend, and frontend",
+              "• Published and hosted in a private URL"
+            ]
+          },
+          {
+            "title": "Highlight - Deep Learning, Image Recognition Engineer",
+            "years": "January 2020 – June 2020",
+            "description": [
+              "• Completed word extraction tool using image recognition to the production level", 
+              "• Modify and implemented the shape detection algorithms and extracted characters inside the box on PDF",
+              "• Trained OCR engine to increase the accuracy from around 76% to 99%"
+            ]
+          }
+        ]
+      },
+      {
+        "company": "Genial Technology, Inc.",
+        "positions":[
+          {
+            "title": "Software Engineer",
+            "years": "July 2019 – January 2020",
+            "description": [
+              "• Developed a user registration page with a subscription payment system", 
+              "• Contributed a research paper on OCR",
+              "• Experimented and researched about OCR to improve accuracy for Chinese characters by applying formulas or algorithms from research papers"
+            ]
+          },
+          {
+            "title": "Software Engineer Intern Lead",
+            "years": "June 2018 – August 2018",
+            "description": [
+              "• Enhanced accuracy of Optical Character Recognition (OCR) from 30% to 95% by introducing LSTM", 
+              "• Spearheaded design and implementation using Google Tesseract to customize product prototypes of a web application with OCR engine – applying image-to-text recognition of audit materialsa",
+              "• Migrated API modules from On-Premise to Cloud (AWS EC2 and API Gateway)",
+              "• Researched, developed, and customized web applications and libraries using imagemagick, yml files, ocrmypdf, leptonica"
+            ]
+          }
+        ]
+      }
+    ],
+    "certificates": [
+      {
+        "title": "Databases and SQL for Data Science by IBM",
+        "image": "databases_and_sql_for_data_science.png",
+        "url": "https://www.credly.com/badges/b7fa929f-9e36-4dfc-ab7c-6b27db30f5ef/linked_in_profile"
+      },
+      {
+        "title": "AWS Cloud Practitioner",
+        "image": "aws_cloud_practitioner.png",
+        "url": "https://www.credly.com/badges/8d77dcfd-1ffb-4a5a-a259-e1abe4893623?source=linked_in_profile"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "90%"
+      },
+      {
+        "name": "React",
+        "level": "80%"
+      },
+      {
+        "name": "Ubuntu",
+        "level": "70%"
+      },
+      {
+        "name": "Nginx",
+        "level": "80%"
+      },
+      {
+        "name": "AWS",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "60%"
+      },
+      {
+        "name": "CSS",
+        "level": "75%"
+      },
+      {
+        "name": "HTML5",
+        "level": "70%"
+      },
+      {
+        "name": "Java",
+        "level": "60%"
+      },
+      {
+        "name": "C++",
+        "level": "65%"
+      },
+      {
+        "name": "SQL",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "AWS Project",
+        "category": "S3, Lambda, SNS",
+        "image": "aws_project.png",
+        "url": "https://github.com/Itaru7/AWS-Project"
+      },
+      {
+        "title": "Weather Forecast Web App",
+        "category": "Python - Flask, JavaScript",
+        "image": "weather_forecast.png",
+        "url": "https://itaru-weather.herokuapp.com/index"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "The Best intern ever had. He quickly understood the basic development policy and worked nicely with the other intern and me. He soon got used to our development environment and upgraded the OCR engine to the sufficient accuracy level by researching Tesseract 4 and pre-processing programs. Although it was challenging as a master or Ph.D. student tackles, he patiently and thoroughly worked on the task and found the solution with his resilience, which would be one of the essential qualifications of an engineer. I believe he is an OCR expert now. Also, Itaru coded a post-processing program to parse the text data to a JSON format flexibly adopting open-source codes from GitHub. Moreover, he proposed an improvement of the system during and after the employment period, which made me realize things that I cannot notice by myself. As a result of his great assistance, the development of the OCR engine largely advanced. I highly recommend you consider Itaru a strong candidate as a Python software engineer.",
+        "user": "Aki Abekawa - Founder and CEO of Genial Technology, Inc."
+      },
+      {
+        "text": "Itaru has been an inspiring, motivated, and enthusiastic engineer. He has programmed and built a foundation of a core system of a product. Moreover, he was respected by other interns for his excellent leadership in guiding them through work tasks. He also gained credence for teaching technical skills and taking care of those interns to make sure no one was left behind.",
+        "user": "Yasunori Sato - Financial Data Scientist of Genial Technology, Inc."
+      }
+    ]
+  }
+}
