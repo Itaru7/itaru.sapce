@@ -38,7 +38,7 @@ class Header extends Component {
             <h1 className="responsive-headline">I'm {name}.</h1>
             <h3>I'm a {city} based 
                <span> {occupation}</span>. 
-               Everything need to go is in my <span>backpack. </span>I'm looking for the next <span>trip :)</span>
+               Everything that needs to go is in my <span>backpack. </span>I'm looking for the next <span>trip :)</span>
                {/* I'm <span>packed</span> with everything need to go. And looking for the next <span>trip :)</span> */}
             </h3>
             <hr />
