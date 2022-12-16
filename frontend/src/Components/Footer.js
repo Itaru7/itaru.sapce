@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 class Footer extends Component {
   render() {
-
+    let current_year = new Date().getFullYear()
     if(this.props.data){
       var networks= this.props.data.social.map(function(network){
         return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
@@ -19,7 +19,7 @@ class Footer extends Component {
            </ul>
 
            <ul className="copyright">
-              <li>&copy; Copyright 2021 Itaru Kishikawa</li>
+              <li>&copy; Copyright {current_year} Itaru Kishikawa</li>
               <li>Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></li>
            </ul>
 
