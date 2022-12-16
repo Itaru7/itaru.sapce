@@ -6,15 +6,15 @@
     "position": "Site",
     "image": "profilepic.jpg",
     "bio": "Know where to go.",
-    "contactmessage": "I would like to discuss new opportunities. Let's talk and find \"it.\" Always welcome and look forwad to hearing from you. See you in the near future.",
+    "contactmessage": "I would like to discuss new opportunities. Let's talk and find it. Always welcome and look forward to hearing from you. See you in the near future.",
     "email": "itaru.kishikawa@gmail.com",
-    "phone": "(408) 466-8729",
+    "phone": "+81 (070)-8978-3950",
     "address": {
       "city": "San Jose",
       "state": "CA"
     },
     "website": "https://itaru.space",
-    "resumedownload": "https://drive.google.com/file/d/1SYV9-erula1wkMdkmLWRk5TYn44Yw1Vj/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1IPiMOWSL0C5Xy7QuUuqVZgMLiKRbqNQt/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -39,45 +39,68 @@
       {
         "school": "San Jose State University",
         "degree": "Bachelor of Science, Computer Science",
-        "graduated": "May 2019",
+        "graduated": "09/2016 - 05/2019",
         "description": ""
       },
       {
         "school": "Orange Coast College",
         "degree": "Associate of Science, Mathematics",
-        "graduated": "May 2016",
+        "graduated": "09/2013 - 05/2016",
         "description": ""
       }
     ],
     "work": [
       {
+        "company": "NANDORA, Co.",
+        "positions":[
+          {
+            "title": "Software Engineer / Project Manager",
+            "years": "01/2022 - Ongoing",
+            "description": [
+              "• Worked with C-level suite to create vision and goals for the projects, and represented customers to ensure quick product adoption",
+              "• Collaborated with a team of 5 software engineers to work cross-functionally with software, marketing, and UI design teams to align marketing messaging with the project scopeCollaborated with a team of 5 software engineers to work cross-functionally with software, marketing, and UI design teams to align marketing messaging with the project scope",
+              "• Managed communication across Engineering, Designing, and Business departments to schedule and plan the solutions to solve the problems eﬃciently in terms of time, resource, and cost",
+              "• Assisted in the development and implementation of changes to the software by providing feedback from customers and analyzing user engagement using a service monitoring tool",
+              "• Proposed, listed, planned, assigned, tested, and delivered a new feature to the application and increased user engagement by about 48%"
+            ]
+          }
+        ]
+      },
+      {
         "company": "Fujisoft America, Inc.",
         "positions":[
           {
-            "title": "Summary - Software Engineer",
-            "years": "January 2020 - September 2021",
+            "title": "Software Engineer / Technical Support",
+            "years": "01/2019 - 09/2021",
+            "description": []
+          },
+          {
+            "title": "Technical Support",
             "description": [
-                "• Developed custom applications, APIs and features in Python, React, JavaScript, HTML, CSS, Ubuntu, Nginx, and Kintone (partnership DB) for various projects",
-                "• Tested, reviewed and analyzed codes or logs to fix bugs written by others",
-                "• Proposed, architected and launched applications or softwares"
+              "• Performed a variety of Technical and supportive tasks over the phone or via web messenger related to networks, servers, workstations, and peripherals including but not limited to the assembly, installation, maintenance, and troubleshooting of hardware equipment and software",
+              "• Communicated with customers to identify issues, walk through solutions, and initiate corrective actions to restore service and functionality",
+              "• Gathered customer and technology information to determine technical support level; elevate calls to appropriate support level as necessary",
+              "• Assisted and worked closely with network support staﬀ and administrator in conﬁguring, implementing, and maintaining network connectivity",
+              "• Worked with the software development team on reported errors and bugs on newly released software and assisted in the deployment of release ﬁxes",
+              "• Keep customers informed of progress during the issue lifecycle and make follow-up calls or communications in a timely manner",
+              "• Established patterns for reoccurring issues and provided input to development teams",
+              "• Accessed and documented procedures, tools, and manuals to provide support on company-supplied hardware, equipment, and software"
             ]
           },
           {
-            "title": "Highlight - Full Stack Software Engineer",
-            "years": "June 2020 – January 2021",
+            "title": "Full Stack Software Engineer",
             "description": [
-              "• Built a web-based Daily Sales Summary Dashboard full stack", 
-              "• Designed and implemented a server, database, backend, and frontend",
-              "• Published and hosted in a private URL"
+              "• Built a web-based Daily Sales Summary Dashboard Full-Stack",
+              "• Designed and implemented with Python, Ubuntu, Nginx, Kintone(partnership DB), React, JavaScript, HTML and CSS",
+              "• Published and hosted in a private URL on AWS EC2"
             ]
           },
           {
-            "title": "Highlight - Deep Learning, Image Recognition Engineer",
-            "years": "January 2020 – June 2020",
+            "title": "Deep Learning, Image Recognition Work",
             "description": [
-              "• Completed word extraction tool using image recognition to the production level", 
-              "• Modify and implemented the shape detection algorithms and extracted characters inside the box on PDF",
-              "• Trained OCR engine to increase the accuracy from around 76% to 99%"
+              "• Completed word extraction tool using image recognition to the production level with Python",
+              "• Modify and implemented the shape detection algorithms and extracted characters inside the box on the PDF",
+              "• Trained OCR (Optical Character Recognition is the use of technology to distinguish printed or handwritten text characters inside digital images of physical documents) engine to increase the accuracy from around 76% to 99%"
             ]
           }
         ]
@@ -89,19 +112,19 @@
             "title": "Software Engineer",
             "years": "July 2019 – January 2020",
             "description": [
-              "• Developed a user registration page with a subscription payment system", 
-              "• Contributed a research paper on OCR",
-              "• Experimented and researched about OCR to improve accuracy for Chinese characters by applying formulas or algorithms from research papers"
+              "• Developed a user registration page with a subscription payment system with Strip, JavaScript, HTML and CSS",
+              "• Experimented and researched about OCR to improve accuracy for Chinese characters by applying formulas or algorithms from research papers on Python backend",
+              "• Contributed a research paper for the annual convention of The Association for Natural Language Processing about OCR in 2020"
             ]
           },
           {
             "title": "Software Engineer Intern Lead",
             "years": "June 2018 – August 2018",
             "description": [
-              "• Enhanced accuracy of Optical Character Recognition (OCR) from 30% to 95% by introducing LSTM", 
-              "• Spearheaded design and implementation using Google Tesseract to customize product prototypes of a web application with OCR engine – applying image-to-text recognition of audit materialsa",
+              "• Enhanced accuracy of OCR from 30% to 95% by introducing LSTM using Python",
+              "• Spearheaded design and implementation using Google Tesseract to customize product prototypes of a web application with OCR engine applying image-to-text recognition of audit materials",
               "• Migrated API modules from On-Premise to Cloud (AWS EC2 and API Gateway)",
-              "• Researched, developed, and customized web applications and libraries using imagemagick, yml files, ocrmypdf, leptonica"
+              "• Researched, developed, and customized web applications and open-source python libraries to make them work with ImageMagick, yml ﬁles, ocrmypdf, and leptonica to improve the accuracy of the OCR system"
             ]
           }
         ]
@@ -125,44 +148,48 @@
         "level": "90%"
       },
       {
-        "name": "React",
-        "level": "80%"
-      },
-      {
-        "name": "Ubuntu",
-        "level": "70%"
-      },
-      {
         "name": "Nginx",
         "level": "80%"
       },
       {
-        "name": "AWS",
-        "level": "70%"
-      },
-      {
-        "name": "JavaScript",
-        "level": "60%"
+        "name": "React",
+        "level": "80%"
       },
       {
         "name": "CSS",
         "level": "75%"
       },
       {
+        "name": "Ruby",
+        "level": "75%"
+      },
+      {
+        "name": "AWS",
+        "level": "70%"
+      },
+      {
         "name": "HTML5",
         "level": "70%"
       },
       {
-        "name": "Java",
-        "level": "60%"
+        "name": "SQL",
+        "level": "70%"
+      },
+      {
+        "name": "Ubuntu",
+        "level": "70%"
       },
       {
         "name": "C++",
         "level": "65%"
       },
       {
-        "name": "SQL",
-        "level": "70%"
+        "name": "Java",
+        "level": "60%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "60%"
       }
     ]
   },

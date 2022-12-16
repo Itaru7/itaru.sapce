@@ -15,7 +15,10 @@ class Resume extends Component {
             {work.positions.map((position, i) => {
               var r = []
               r.push(<p key={position}></p>)
-              r.push(<p key={i} className="info">{position.title}<span>&bull;</span> <em className="date">{position.years}</em></p>)
+              r.push(<span key={i} className="info">{position.title}</span>)
+                {position.years &&
+                    r.push(<span><span>&bull;</span> <em className="date">{position.years}</em></span>)
+                }
               position.description.map((description, j) => r.push(<p className="detail" key={description}>{description}</p>));
               return r
             })}

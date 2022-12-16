@@ -95,8 +95,8 @@ class Contact extends Component {
 					   <h4>Address and Phone</h4>
 					   <p className="address">
 						   {name}<br />
-						   {street} <br />
-						   {city}, {state} {zip}<br />
+						   {/*{street} <br />*/}
+						   {/*{city}, {state} {zip}<br />*/}
 						   <span>{phone}</span><br/>
                      <span><a href={'mailto:' + email}>{email}</a></span>
 					   </p>
